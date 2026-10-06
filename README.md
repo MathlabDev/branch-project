@@ -60,4 +60,4 @@ git switch -c feature/my-change
 
 ## Notes
 
-This repository is intentionally simple so the focus stays on Git concepts and practice. Treat it as a safe place to experiment, learn, and improve your version control skills.
+This repository is intentionally simple so the focus stays on Git concepts and practice. Treat it as a safe place to experiment, learn, and improve your version control skills. !This is a trial change!
